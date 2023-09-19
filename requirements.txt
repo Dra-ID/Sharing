@@ -1,3 +1,5 @@
 requests
 requests-toolbelt
 rich
+BeautifulSoup4
+bs4
