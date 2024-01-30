@@ -1,5 +1,5 @@
 # Share-Facebook
-Share postingan Facebook unlimited 😻
+Share postingan Facebook unlimited 
 
 Install
 ```python
